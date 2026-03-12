@@ -1,4 +1,4 @@
-# Optimización
+# Optimización - Talleres grupales
 En este repositorio se van a albergar los talleres correspondientes a la materia "Optimización".
 
 Nombre de los integrantes del grupo: \
